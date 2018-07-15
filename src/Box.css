@@ -1,0 +1,23 @@
+.Box1 {
+    width: 33.3%;
+    background-color:#9068be;
+    float: left;
+    height: 150px;
+    
+}
+
+.Box2 {
+    
+    width: 33.3%;
+    background-color:#e1e8f0;
+    float: left;
+    height: 150px;
+    
+}
+
+.Box3 {
+    width: 33.3%;
+    background-color:#e62739;
+    float: left;
+    height: 150px;
+}
